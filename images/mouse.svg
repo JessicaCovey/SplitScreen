@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="18px" height="32px" viewBox="0 0 18 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>mouse</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="icon32" sketch:type="MSArtboardGroup" transform="translate(-7.000000, 0.000000)">
+            <g id="mouse" sketch:type="MSLayerGroup" transform="translate(7.000000, 1.000000)">
+                <path d="M9.00000032,30.5 C15.5000007,30.5 17,24.0735686 17,15.5084746 C17,6.94338058 18,0 9,0 C-6.69464484e-14,2.13788497e-15 1,6.94338058 1,15.5084746 C1,24.0735686 2.49999996,30.5 9.00000032,30.5 Z" id="Oval-1" stroke="#9B9B9B" sketch:type="MSShapeGroup"></path>
+                <circle id="Oval-2" stroke="#979797" sketch:type="MSShapeGroup" cx="9" cy="7" r="1"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

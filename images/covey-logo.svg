@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="33px" height="15px" viewBox="0 0 33 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>covey-logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="3.46796519%" x2="50%" y2="15.5215376%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="18.4211575%"></stop>
+            <stop stop-color="#262626" offset="87.2807717%"></stop>
+        </linearGradient>
+        <path id="path-2" d="M8.25,0.25 L4.60923632,0.25 L0.25,0.25 L3.83177366,6.43837357 L4.22050499,7.11000013 L4.60923632,6.43837357 L8.25,0.25 L8.25,0.25 Z"></path>
+        <linearGradient x1="44.3140954%" y1="56.8493966%" x2="29.7406932%" y2="66.2981238%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" stop-opacity="0.00382133152" offset="0%"></stop>
+            <stop stop-color="#262626" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="covey-logo" sketch:type="MSLayerGroup" transform="translate(-2.000000, -1.000000)">
+            <g id="Y" transform="translate(26.000000, 5.000000)">
+                <g id="top-y">
+                    <use stroke="url(#linearGradient-1)" stroke-width="1" sketch:type="MSShapeGroup" xlink:href="#path-2"></use>
+                    <use stroke="none" xlink:href="#path-2"></use>
+                </g>
+                <path d="M3.25,9.00000002 L5.5,4.91805787" id="tail-y" stroke="#252525" stroke-width="0.8" sketch:type="MSShapeGroup"></path>
+            </g>
+            <g id="E" transform="translate(23.000000, 4.000000)" stroke="#262626" sketch:type="MSShapeGroup">
+                <path d="M0,0.05333328 L4.5,0.0542877689" id="top-E"></path>
+                <path d="M0,6.27650996 L4.5,6.27650996" id="bot-E"></path>
+                <path d="M0.5,6.66666667 L0.5,0.444444444" id="side-E"></path>
+            </g>
+            <path d="M23.25,5.25 L19.6092363,5.25 L15.25,5.25 L18.8317737,11.4383736 L19.220505,12.1100001 L19.6092363,11.4383736 L23.25,5.25 L23.25,5.25 Z" id="V" stroke="url(#linearGradient-1)" sketch:type="MSShapeGroup"></path>
+            <circle id="O" stroke="#262626" sketch:type="MSShapeGroup" cx="11" cy="9" r="4"></circle>
+            <ellipse id="C" stroke="url(#linearGradient-3)" sketch:type="MSShapeGroup" transform="translate(9.224590, 8.778704) rotate(25.000000) translate(-9.224590, -8.778704) " cx="9.22458979" cy="8.77870422" rx="6.79025448" ry="6.5"></ellipse>
+        </g>
+    </g>
+</svg>

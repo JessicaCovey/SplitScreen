@@ -47,63 +47,61 @@ body {
         background-position: center center;
         background-size: cover;
         position: absolute;
-        transition: transform 2s ease-in-out, opacity 1s ease-in-out;
-        opacity: 0;
-        transform: translate3d(0, 2%, 0); }
-        /* line 52, /Users/jessicacovey/Code/SplitScreen/source/stylesheets/all.css.sass */
+        transition: opacity 1s ease-in-out;
+        opacity: 0; }
+        /* line 51, /Users/jessicacovey/Code/SplitScreen/source/stylesheets/all.css.sass */
         .wrapper #splitScreen .right-side .picture.shown {
-          opacity: 1;
-          transform: translate3d(0, 0, 0); }
+          opacity: 1; }
 
-/* line 59, /Users/jessicacovey/Code/SplitScreen/source/stylesheets/all.css.sass */
+/* line 56, /Users/jessicacovey/Code/SplitScreen/source/stylesheets/all.css.sass */
 .roboto {
   font-family: "Roboto Condensed", sans-serif; }
 
-/* line 62, /Users/jessicacovey/Code/SplitScreen/source/stylesheets/all.css.sass */
+/* line 59, /Users/jessicacovey/Code/SplitScreen/source/stylesheets/all.css.sass */
 .openSans {
   font-family: "Open Sans Condensed", sans-serif;
   letter-spacing: 1px; }
 
-/* line 66, /Users/jessicacovey/Code/SplitScreen/source/stylesheets/all.css.sass */
+/* line 63, /Users/jessicacovey/Code/SplitScreen/source/stylesheets/all.css.sass */
 .caps {
   text-transform: uppercase; }
 
-/* line 69, /Users/jessicacovey/Code/SplitScreen/source/stylesheets/all.css.sass */
+/* line 66, /Users/jessicacovey/Code/SplitScreen/source/stylesheets/all.css.sass */
 .center {
   text-align: center; }
 
-/* line 72, /Users/jessicacovey/Code/SplitScreen/source/stylesheets/all.css.sass */
+/* line 69, /Users/jessicacovey/Code/SplitScreen/source/stylesheets/all.css.sass */
 .bold {
   font-weight: 600px; }
 
-/* line 75, /Users/jessicacovey/Code/SplitScreen/source/stylesheets/all.css.sass */
+/* line 72, /Users/jessicacovey/Code/SplitScreen/source/stylesheets/all.css.sass */
 .x2 {
   font-size: 2em; }
 
-/* line 78, /Users/jessicacovey/Code/SplitScreen/source/stylesheets/all.css.sass */
+/* line 75, /Users/jessicacovey/Code/SplitScreen/source/stylesheets/all.css.sass */
 .x3 {
   font-size: 3em; }
 
-/* line 81, /Users/jessicacovey/Code/SplitScreen/source/stylesheets/all.css.sass */
+/* line 78, /Users/jessicacovey/Code/SplitScreen/source/stylesheets/all.css.sass */
 .x5 {
   font-size: 5em; }
 
-/* line 87, /Users/jessicacovey/Code/SplitScreen/source/stylesheets/all.css.sass */
+/* line 84, /Users/jessicacovey/Code/SplitScreen/source/stylesheets/all.css.sass */
 .mt30 {
   margin-top: 30px; }
 
-/* line 90, /Users/jessicacovey/Code/SplitScreen/source/stylesheets/all.css.sass */
+/* line 87, /Users/jessicacovey/Code/SplitScreen/source/stylesheets/all.css.sass */
 .mb30 {
   margin-bottom: 30px; }
 
-/* line 93, /Users/jessicacovey/Code/SplitScreen/source/stylesheets/all.css.sass */
+/* line 90, /Users/jessicacovey/Code/SplitScreen/source/stylesheets/all.css.sass */
 .mt60 {
   margin-top: 60px; }
 
-/* line 96, /Users/jessicacovey/Code/SplitScreen/source/stylesheets/all.css.sass */
+/* line 93, /Users/jessicacovey/Code/SplitScreen/source/stylesheets/all.css.sass */
 .mb60 {
   margin-bottom: 60px; }
 
-/* line 102, /Users/jessicacovey/Code/SplitScreen/source/stylesheets/all.css.sass */
+/* line 99, /Users/jessicacovey/Code/SplitScreen/source/stylesheets/all.css.sass */
 .pt30 {
   padding-top: 30px; }
